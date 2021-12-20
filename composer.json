@@ -1,0 +1,8 @@
+{
+    "name": "vbucks-2022/2022-vbucks",
+    "description": "LINK BELOW",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
